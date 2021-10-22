@@ -10,6 +10,7 @@ namespace lab_4_1
     {
         static void Main(string[] args)
         {
+            
             Console.WriteLine("Введите целое положительное число");
             int n = Convert.ToInt32(Console.ReadLine());
             int i = 1;
